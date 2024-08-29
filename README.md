@@ -18,6 +18,12 @@
 
 **Project** : FINITE STATE MACHINE (FSM) DESIGN
 
+    ![k](https://github.com/user-attachments/assets/031f1437-ab73-42d3-ab05-c9d20a005ca4)
+
+    ![a](https://github.com/user-attachments/assets/70fefe47-cc6e-4900-aa4d-b1ff65f95a18)
+
+
+
 **Objective:**
 
 **Design and implement a Finite State Machine (FSM) that can model and control a specific system or process, such as:**
