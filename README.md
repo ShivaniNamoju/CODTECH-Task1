@@ -71,9 +71,9 @@
      
 **Simulation tools:**
 
-   ModelSim
-   QuestaSim
-   Vivado Simulator
-   Simulink
+     ModelSim
+     QuestaSim
+     Vivado Simulator
+     Simulink
 
 
